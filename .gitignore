@@ -1,0 +1,12 @@
+.vs/
+x64/
+Debug/
+Release/
+*.exe
+*.pdb
+*.log
+
+studentai*.txt
+stud_*.txt
+vargsiukai*.txt
+kietiakai*.txt
